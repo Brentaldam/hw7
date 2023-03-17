@@ -33,6 +33,7 @@ const getCharacters = houseCode => {
 };
 
 
+
 function myFunc() {
 
     var e = document.getElementById("house");
